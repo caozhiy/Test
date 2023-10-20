@@ -1,2 +1,4 @@
 Hello world.
 Added some words.
+Modified hello.txt in Branch A.
+# I also comment a line in Branch A.
