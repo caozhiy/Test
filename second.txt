@@ -1,6 +1,5 @@
 This is a second file.
 git config --global http.https://github.com.proxy 'http://127.0.0.1:7890'
-# 找到自己的代理的port的4个数字的端口就行，不一定是1080口的
 git config --global http.proxy 'socks5://127.0.0.1:1080'
 git config --global https.proxy 'socks5://127.0.0.1:1080'
 
